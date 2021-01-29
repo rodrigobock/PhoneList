@@ -12,3 +12,4 @@ C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\
 C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.pdb
 C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.F_MainScreen.resources
 C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.F_AddContact.resources
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.F_CreateAccount.resources

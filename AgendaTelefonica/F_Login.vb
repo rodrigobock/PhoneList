@@ -7,4 +7,9 @@
         Dim main = F_MainScreen
         main.ShowDialog()
     End Sub
+
+    Private Sub ll_createAccount_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles ll_createAccount.LinkClicked
+        Dim addAccount = F_CreateAccount
+        addAccount.ShowDialog()
+    End Sub
 End Class

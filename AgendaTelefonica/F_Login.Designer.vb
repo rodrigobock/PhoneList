@@ -29,6 +29,7 @@ Partial Class F_Login
         Me.tb_pwd = New System.Windows.Forms.TextBox()
         Me.tb_user = New System.Windows.Forms.TextBox()
         Me.btn_login = New System.Windows.Forms.Button()
+        Me.ll_createAccount = New System.Windows.Forms.LinkLabel()
         Me.Panel1.SuspendLayout()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -37,6 +38,7 @@ Partial Class F_Login
         'Panel1
         '
         Me.Panel1.BackColor = System.Drawing.Color.White
+        Me.Panel1.Controls.Add(Me.ll_createAccount)
         Me.Panel1.Controls.Add(Me.PictureBox2)
         Me.Panel1.Controls.Add(Me.PictureBox1)
         Me.Panel1.Controls.Add(Me.tb_pwd)
@@ -44,7 +46,7 @@ Partial Class F_Login
         Me.Panel1.Controls.Add(Me.btn_login)
         Me.Panel1.Location = New System.Drawing.Point(49, 24)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(404, 231)
+        Me.Panel1.Size = New System.Drawing.Size(404, 256)
         Me.Panel1.TabIndex = 0
         '
         'PictureBox2
@@ -98,6 +100,17 @@ Partial Class F_Login
         Me.btn_login.Text = "Login"
         Me.btn_login.UseVisualStyleBackColor = True
         '
+        'll_createAccount
+        '
+        Me.ll_createAccount.AutoSize = True
+        Me.ll_createAccount.Font = New System.Drawing.Font("Microsoft YaHei UI Light", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.ll_createAccount.Location = New System.Drawing.Point(101, 224)
+        Me.ll_createAccount.Name = "ll_createAccount"
+        Me.ll_createAccount.Size = New System.Drawing.Size(193, 19)
+        Me.ll_createAccount.TabIndex = 5
+        Me.ll_createAccount.TabStop = True
+        Me.ll_createAccount.Text = "Isn't have an account? Let's go!"
+        '
         'F_Login
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -125,4 +138,5 @@ Partial Class F_Login
     Friend WithEvents btn_login As Button
     Friend WithEvents PictureBox2 As PictureBox
     Friend WithEvents PictureBox1 As PictureBox
+    Friend WithEvents ll_createAccount As LinkLabel
 End Class

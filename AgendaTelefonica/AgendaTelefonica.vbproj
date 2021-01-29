@@ -82,6 +82,12 @@
     <Compile Include="F_AddContact.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="F_CreateAccount.Designer.vb">
+      <DependentUpon>F_CreateAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_CreateAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="F_Login.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -115,6 +121,9 @@
   <ItemGroup>
     <EmbeddedResource Include="F_AddContact.resx">
       <DependentUpon>F_AddContact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_CreateAccount.resx">
+      <DependentUpon>F_CreateAccount.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="F_Login.resx">
       <DependentUpon>F_Login.vb</DependentUpon>
