@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe.config
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.pdb
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.xml
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.vbprojAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.F_Login.resources
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.Resources.resources
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.vbproj.GenerateResource.cache
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.vbproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.exe
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.xml
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.pdb
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.F_MainScreen.resources
+C:\Users\Rodrigo\Documents\Aulas_VS\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.F_AddContact.resources
